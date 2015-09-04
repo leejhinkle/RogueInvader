@@ -1,0 +1,51 @@
+Readme File
+
+**ROGUE INVADER v 5.01 PRESS DEMO**
+Developed by Squishy Games, 2015
+EMAIL: marketing@squishygames.com
+Twitter: @SquishyGamesCo
+
+
+Thank you for taking the time to check out Rogue Invader.  We
+have worked hard on it for the last 8 months, and we hope the effort is
+evident.
+
+There are three playable areas after dropping to the surface.
+After passing the bridge, the game will automatically return you to
+the carrier.  If you find yourself dying quickly, and we hope you do,
+you may press '0' in the top key row (above O & P, the keypad 0 will 
+not work) to make yourself invincible and parade through the level.
+
+The carrier is mostly functional.  Research is not enabled in the Labs
+yet, but it should be fairly easy to understand what the purpose is:
+unlock mods and things.  We have provided unlocked so you can 
+sample them.
+
+We are aware there are a few things that need to be locked down with the
+horizon--and we assure you they will be: aliens walking through the air
+and over chasms you cannot are not our idea of fun and will not stay.
+
+The music at the opening menu is an original piece by Caleb Blood, and 
+he will provide the rest of the sound track and sound effects.  You 
+can learn more about him here: http://calebblood.com/.  He's studied 
+under and ghost-written for some of the best composers in Hollywood.
+We're proud to have him on our team.
+
+In the next few months before release we will be focusing on creating
+the remaining 8 playable areas, cutscenes to drive storyline, bug-squashing,
+and tightening the AI.
+
+We've already been Greenlit by Steam and are aiming for a release in 
+early November 2015.  Our Kickstarter will be launching on 18 August at 1000
+EDT, and we'd appreciate you being willing to hold any preview articles until
+that date.  If you'd like to check out our Kickstarter page ahead of time,
+the link is https://www.kickstarter.com/projects/squishygames/1788579563?token=05251453.
+
+We appreciate you taking the time to play our game.  If you have 
+questions or suggestions for us, please don't hesitate to email or tweet
+us. (marketing@squishygames.com, @SquishyGamesCo)
+
+--Nathan & Lee J
+Nathan Rees
+Lee J Hinkle
+Squishy Games
